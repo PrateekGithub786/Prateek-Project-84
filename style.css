@@ -1,0 +1,14 @@
+body{
+    background-image: url("racing.gif");
+    background-size: cover;
+}
+
+#img{
+    height: 120px;
+    width: 70px;
+}
+
+#img2{
+    height: 120px;
+    width: 70px;
+}
